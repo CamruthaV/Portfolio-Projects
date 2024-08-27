@@ -1,3 +1,3 @@
-## Food Ordering Website
+# Food Ordering Website
 
-# Using MERN Stack
+## Using MERN Stack
